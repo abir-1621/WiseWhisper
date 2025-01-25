@@ -1,0 +1,44 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+
+# Virtual Environments
+venv/
+env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Testing and Coverage
+htmlcov/
+.coverage
+*.cover
+*.py[cod]
+*.sqlite3
+
+# Node.js if used for tools
+node_modules/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Miscellaneous
+*.bak
+*.tmp
